@@ -15,7 +15,7 @@ HTML5 – Structuring the content
 CSS3 – Styling and layout
 
 📂 Live Preview
-Check out my portfolio here: [Your Live URL (if hosted)]
+Check out my portfolio here: https://muthulakshmi-git.github.io/Simple_Portfolio_Website/
 
 💡 How to Use
 Clone the repository:
