@@ -28,5 +28,7 @@ Open index.html in your browser to view the website.
 
 📬 Connect With Me
 Feel free to reach out or explore my work:
+
 📧 Email: muthulakshmisaravanan395@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/muthulakshmis1
